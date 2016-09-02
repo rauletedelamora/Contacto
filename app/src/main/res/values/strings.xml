@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Contactos</string>
+    <string name="form_username">Nombre completo</string>
+    <string name="form_telefono">Telefono</string>
+    <string name="form_email">Email</string>
+    <string name="form_descripContacto">Descripcion de contacto</string>
+    <string name="btn_siguiente">Siguiente</string>
+    <string name="btn_datepicker">OK</string>
+    <string name="tvCabecera_ConfirmarDatos">Confirmar datos</string>
+    <string name="tvNombre">Raul Mora</string>
+    <string name="tvfechaNac">Fecha de nacimiento: </string>
+    <string name="fecha">fecha</string>
+    <string name="tvTelefono">Telf: </string>
+    <string name="telf">55557777</string>
+    <string name="tvEmail">Email: </string>
+    <string name="email">raul@gmail.com</string>
+    <string name="tvDescripcion">Descripción de contacto: </string>
+    <string name="descripc">qwerty</string>
+    <string name="btnEditar">Editar contacto</string>
+</resources>
